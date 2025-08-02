@@ -6,63 +6,30 @@
 
 ## Overview
 
-Superstore Sales with Streamlit is a data visualization and analysis project that uses the Streamlit framework to create an interactive web application for exploring and analyzing sales data from a superstore. This project aims to provide an easy-to-use interface for users to gain insights into sales trends, Sales performance, product performance, Shippin analysis and Location analysis.
+The ESPN Cricket Dashboard is a data visualization and analysis project that uses web-scraped data from ESPN to create an interactive dashboard. This dashboard focuses on batting and fielding statistics from the India and South Africa cricket teams. Built with DAX functions and Power BI, it provides an intuitive interface for users to explore and analyze cricket performance metrics.
 
 ## Deployment
-[Power BI](https://app.powerbi.com/links/c5dQtEafKS?ctid=d6b133e3-eec7-4dbd-93ff-cb50b1d6dad2&pbi_source=linkShare&bookmarkGuid=942874be-11b1-4e31-8527-124a62ad7f48)
 
-
+The dashboard is deployed on Power BI and can be accessed [here](https://app.powerbi.com/links/c5dQtEafKS?ctid=d6b133e3-eec7-4dbd-93ff-cb50b1d6dad2&pbi_source=linkShare&bookmarkGuid=942874be-11b1-4e31-8527-124a62ad7f48).
 
 ## Preview
 
 ![Image](https://github.com/user-attachments/assets/1dc6d4e8-53df-44d9-866b-f1e1caf038f4)
 
 ## Dataset
-- Stored in cloud on personal <a href="https://www.linkedin.com/in/tusharaggarwalinseec/">![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white)</a> on POSTGRSQL server
+- Webscraping from [ESPN cricinfo](https://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;home_or_away=1;opposition=3;team=6;template=results;type=batting).
+
+<img width="370" height="466" alt="image" src="https://github.com/user-attachments/assets/7486ee75-9e37-4906-857f-4ff8094d7210" />
 
 ## Features
 
-- **Interactive Data Visualization**: Visualize sales data through dynamic charts and graphs.
-- **Filter and Search**: Easily filter data by date, product category, region, and more.
-- **Sales Trends**: Analyze sales trends over time to make informed decisions.
-- **Customer Insights**: Gain insights into customer behavior and demographics.
-- **Product Performance**: Evaluate the performance of different product categories.
-- **Export Data**: Download selected data for further analysis.
+- **Batting and Feilding Data Visualization**: Explore batting statistics through dynamic graphs.
+- **Filter and Search**: Easily filter player names by date, product category, region, and more.
+- **Player Insights**: Gain detailed insights into individual player performances, including averages, strike rates, and milestone achievements.
 
-## Project Structure
-
-The project repository is organized as follows:
-
-```
-
-├── LICENSE
-├── README.md           <- README .
-├── notebooks           <- Folder containing the final reports/results of this project.
-│   │
-│   └── bank_german_customer_segmentation.py   <- Final notebook for the project.
-├── reports            <- Folder containing the final reports/results of this project.
-│   │
-│   └── Pizza_Sales_Report.pdf   <- Final analysis report in PDF.
-│   
-├── src                <- Source for this project.
-│   │
-│   └── data           <- Datasets used and collected for this project.
-|   └── model          <- Model.
-```
-## License
-
-Due to the extensive time invested in code development and in consideration of privacy concerns, the source code for the application is currently not publicly accessible. Should anyone have an interest in obtaining access to the code, please do not hesitate to contact me directly. Your understanding is greatly appreciated. Thank you
-
-## Author
-- <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
-- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
-- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
-- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
-- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
-
-## Contact me!
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
-
-
-
-
+## Usage
+To use the dashboard:
+- Access the Power BI link provided in the Deployment section.
+- Use the filters and slicers to select specific players, teams, or time periods.
+- Interact with the visualizations to explore different aspects of the batting statistics.
+- Export data as needed for further analysis.
