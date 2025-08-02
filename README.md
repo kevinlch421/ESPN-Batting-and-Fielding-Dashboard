@@ -1,5 +1,6 @@
 # ESPN Cricket Dashboard
 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
@@ -33,3 +34,5 @@ To use the dashboard:
 - Use the filters and slicers to select specific players, teams, or time periods.
 - Interact with the visualizations to explore different aspects of the batting statistics.
 - Export data as needed for further analysis.
+ 
+ 
